@@ -17,24 +17,16 @@ public class Main {
         boolean isClosed = false;
         System.out.println("Vai veikals ir atverts?"+ isOpen);
         String sunaSkirne = "VAS";
-        char valuta = '$';
+        String valuta = "CHF40";
         char dzimums = 'V';
         System.out.println( "test" + valuta+dzimums);
         int summa;
-
         summa = 5+5;
         System.out.println(summa);
        int x = 10;
        int y = -45;
-
        int rezultats = x+y;
         System.out.println(rezultats);
-
-
-
-
-
-
 }
 }
 
