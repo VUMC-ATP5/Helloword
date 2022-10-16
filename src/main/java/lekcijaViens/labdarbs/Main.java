@@ -27,6 +27,13 @@ public class Main {
        int y = -45;
        int rezultats = x+y;
         System.out.println(rezultats);
+        String kompanija = "Maxima";
+        int darbiniekuSakaits = 7000;
+        boolean apavuKompanija = false;
+        boolean mazumtirdzniecibastikls = true;
+        char darbinieki = 'V';
+        System.out.println( kompanija+ apavuKompanija+ mazumtirdzniecibastikls + darbinieki);
 }
+
 }
 
